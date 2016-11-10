@@ -52,7 +52,7 @@ a{
 .ul-position{
   position: absolute;
   z-index: 9999;
-  display: none;
+  
 }
 .site-nav-list{
   box-sizing: border-box;
